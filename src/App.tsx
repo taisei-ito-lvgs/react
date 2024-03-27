@@ -25,3 +25,4 @@ function LikeButton(){
 }
 
 export default App;
+//memo
